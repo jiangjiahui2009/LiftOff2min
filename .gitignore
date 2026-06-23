@@ -1,0 +1,17 @@
+# ─── Exclude iOS project source ───
+LiftOff2min/
+
+# ─── Exclude misc dev assets ───
+*.mov
+*.pen
+火箭照片/
+火箭照片官网/
+火箭视频截图/
+库壁纸/
+失败页背景图库/
+文案库*
+LiftOff2min_PRD_完整版.md
+火箭启动2分钟.md
+
+# ─── WorkBuddy internal ───
+.workbuddy/
